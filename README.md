@@ -11,16 +11,16 @@ YujArena is a web-based platform designed to streamline the process of reserving
 - Screen recording available (see below)
 
 # Folder Structure
-YujArena/
-│
-├── index.html # Main login interface
-├── styles.css # Styling for the login page
-├── script.js # Login functionality & Google Sign-In
-├── launch.json # VS Code launch config for Chrome
-├── AREAN.jpg # Project image asset
-├── sportsbgi2.webp # Background image asset
-├── sportsbgi3.jpeg # Background image asset
-└── recordings/ # Screen recording (see Google Drive link)
+* YujArena/
+* │
+* ├── index.html # Main login interface
+* ├── styles.css # Styling for the login page
+* ├── script.js # Login functionality & Google Sign-In
+* ├── launch.json # VS Code launch config for Chrome
+* ├── AREAN.jpg # Project image asset
+* ├── sportsbgi2.webp # Background image asset
+* ├── sportsbgi3.jpeg # Background image asset
+* └── recordings/ # Screen recording (see Google Drive link)
 
 # Technologies Used
 
